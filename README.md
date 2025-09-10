@@ -1,22 +1,40 @@
 Counter App
-This project is a counter application built using React hooks.
 
-Features
-Utilizes the useState hook to manage the counter state
+A simple counter application built with React Hooks.
 
-Includes increment and decrement buttons to modify the counter value
+✨ Features
 
-Implements validation to restrict the counter value between 0 and 20 (inclusive)
+Uses the useState hook to manage the counter state.
 
-Key Changes Made:
-Fixed capitalization and formatting (title case for the header)
+Provides Increment and Decrement buttons to update the counter value.
 
-Improved sentence structure and flow
+Includes validation to restrict the counter value between 0 and 20 (inclusive).
 
-Added proper markdown formatting with headers
+🚀 Getting Started
 
-Made the description more concise and professional
+Clone the repository:
 
-Used consistent terminology ("increment/decrement" instead of "increase/decrease")
+git clone <your-repo-url>
+cd counter-app
 
-Clarified the validation range (0 to 20 inclusive)
+
+Install dependencies:
+
+npm install
+
+
+Start the development server:
+
+npm start
+
+![alt text](image.png)
+
+(Add a screenshot or GIF of your app here)
+
+🛠️ Tech Stack
+
+React
+
+JavaScript (ES6+)
+
+CSS
