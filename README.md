@@ -25,11 +25,11 @@ npm install
 
 Start the development server:
 
-npm start
+npm run dev
 
 ![alt text](image.png)
 
-(Add a screenshot or GIF of your app here)
+
 
 🛠️ Tech Stack
 
